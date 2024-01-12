@@ -1,0 +1,14 @@
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\bin\Debug\net6.0\WithyThreads.exe
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\bin\Debug\net6.0\WithyThreads.deps.json
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\bin\Debug\net6.0\WithyThreads.runtimeconfig.json
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\bin\Debug\net6.0\WithyThreads.dll
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\bin\Debug\net6.0\WithyThreads.pdb
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\WithyThreads.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\WithyThreads.AssemblyInfoInputs.cache
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\WithyThreads.AssemblyInfo.cs
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\WithyThreads.csproj.CoreCompileInputs.cache
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\WithyThreads.dll
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\refint\WithyThreads.dll
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\WithyThreads.pdb
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\WithyThreads.genruntimeconfig.cache
+C:\Users\Иван Тончев\source\repos\WithyThreads\WithyThreads\obj\Debug\net6.0\ref\WithyThreads.dll

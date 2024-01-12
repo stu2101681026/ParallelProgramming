@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "bvwsr/faXkPItQAHykTm9DmVKxfekDUHLse4Xxn/BEWel5hvM19r95oZScRhhSY16kMSN9eolpuWcIrSzdApZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\az\\Desktop\\Homework1-master\\DomashnaRabota\\DomashnaRabota\\DomashnaRabota.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\az\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\az\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\az\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\az\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

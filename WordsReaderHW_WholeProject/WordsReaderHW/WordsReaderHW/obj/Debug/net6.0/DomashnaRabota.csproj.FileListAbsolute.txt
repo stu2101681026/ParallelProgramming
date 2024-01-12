@@ -1,0 +1,28 @@
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.AssemblyInfoInputs.cache
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.AssemblyInfo.cs
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.csproj.CoreCompileInputs.cache
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.exe
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.deps.json
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.runtimeconfig.json
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.dll
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.pdb
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.dll
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\refint\DomashnaRabota.dll
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.pdb
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.genruntimeconfig.cache
+C:\Users\Иван Тончев\source\repos\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\ref\DomashnaRabota.dll
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.exe
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.deps.json
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.runtimeconfig.json
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.dll
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\bin\Debug\net6.0\DomashnaRabota.pdb
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.AssemblyInfoInputs.cache
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.AssemblyInfo.cs
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.csproj.CoreCompileInputs.cache
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.dll
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\refint\DomashnaRabota.dll
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.pdb
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\DomashnaRabota.genruntimeconfig.cache
+C:\Users\az\Desktop\Homework1-master\DomashnaRabota\DomashnaRabota\obj\Debug\net6.0\ref\DomashnaRabota.dll
