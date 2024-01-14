@@ -1,0 +1,14 @@
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\bin\Debug\net6.0\FinalHomework.exe
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\bin\Debug\net6.0\FinalHomework.deps.json
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\bin\Debug\net6.0\FinalHomework.runtimeconfig.json
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\bin\Debug\net6.0\FinalHomework.dll
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\bin\Debug\net6.0\FinalHomework.pdb
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\FinalHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\FinalHomework.AssemblyInfoInputs.cache
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\FinalHomework.AssemblyInfo.cs
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\FinalHomework.csproj.CoreCompileInputs.cache
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\FinalHomework.dll
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\refint\FinalHomework.dll
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\FinalHomework.pdb
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\FinalHomework.genruntimeconfig.cache
+C:\Users\Иван Тончев\source\repos\FinalHomework\FinalHomework\obj\Debug\net6.0\ref\FinalHomework.dll
